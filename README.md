@@ -2,7 +2,7 @@
 
 Uma aplicação web front-end que simula os **Resultados das loterias**.
 
-Site: 
+Deploy: https://brainnco-andresa-alves-ribeiro.vercel.app/
 
 #### Desktop:
 
