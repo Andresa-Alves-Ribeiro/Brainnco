@@ -1,6 +1,6 @@
 # Brainnco Front-end challenge
 
-Uma **aplicação web front-end** que mostra **Resultados das loterias**.
+Uma aplicação web front-end que simula os **Resultados das loterias**.
 
 Site: 
 
