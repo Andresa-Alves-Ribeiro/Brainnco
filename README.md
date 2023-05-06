@@ -2,9 +2,11 @@
 
 É um desafio de desenvolvimento front-end proposto pela Brainn. Uma aplicação web front-end que simula os **Resultados das loterias**.
 
+*API original saiu fora do ar, irei atualizar com uma nova api.*
+
 #### Desktop:
 
-![Desktop home]('./../public/desktop-home.png)
+![web](https://user-images.githubusercontent.com/94997593/236586796-e5846b34-d7c5-41a8-8afa-6783004d2092.png)
 ![Desktop concurso]('./../public/desktop-concurso.png)
 
 #### Mobile:
